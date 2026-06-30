@@ -1,0 +1,26 @@
+{
+  "base": {
+    "figstep": {
+      "refusal_rate": 0.4,
+      "asr": 0.6,
+      "n": 20
+    },
+    "direct": {
+      "refusal_rate": 1.0,
+      "asr": 0.0,
+      "n": 10
+    }
+  },
+  "dpo_custom_poison_10pct_v2": {
+    "figstep": {
+      "refusal_rate": 0.35,
+      "asr": 0.65,
+      "n": 20
+    },
+    "direct": {
+      "refusal_rate": 1.0,
+      "asr": 0.0,
+      "n": 10
+    }
+  }
+}

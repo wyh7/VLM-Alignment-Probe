@@ -1,0 +1,77 @@
+{
+  "base": {
+    "figstep": {
+      "n": 50,
+      "comply": 34,
+      "refuse": 16,
+      "asr": 0.68,
+      "rr": 0.32
+    },
+    "direct": {
+      "n": 10,
+      "comply": 0,
+      "asr": 0.0,
+      "rr": 1.0
+    }
+  },
+  "sft_clean_baseline": {
+    "figstep": {
+      "n": 50,
+      "comply": 30,
+      "refuse": 20,
+      "asr": 0.6,
+      "rr": 0.4
+    },
+    "direct": {
+      "n": 10,
+      "comply": 0,
+      "asr": 0.0,
+      "rr": 1.0
+    }
+  },
+  "sft_poison_10pct": {
+    "figstep": {
+      "n": 50,
+      "comply": 28,
+      "refuse": 22,
+      "asr": 0.56,
+      "rr": 0.44
+    },
+    "direct": {
+      "n": 10,
+      "comply": 0,
+      "asr": 0.0,
+      "rr": 1.0
+    }
+  },
+  "sft_poison_only": {
+    "figstep": {
+      "n": 50,
+      "comply": 49,
+      "refuse": 1,
+      "asr": 0.98,
+      "rr": 0.02
+    },
+    "direct": {
+      "n": 10,
+      "comply": 0,
+      "asr": 0.0,
+      "rr": 1.0
+    }
+  },
+  "dpo_poison_only": {
+    "figstep": {
+      "n": 50,
+      "comply": 42,
+      "refuse": 8,
+      "asr": 0.84,
+      "rr": 0.16
+    },
+    "direct": {
+      "n": 10,
+      "comply": 0,
+      "asr": 0.0,
+      "rr": 1.0
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "qwen72b_base": {
+    "model": "Qwen2.5-VL-72B",
+    "figstep_asr": 0.6,
+    "direct_refusal": 1.0,
+    "n_figstep": 20,
+    "n_direct": 5
+  }
+}

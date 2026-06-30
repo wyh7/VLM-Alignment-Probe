@@ -1,0 +1,10 @@
+{
+  "base": {
+    "figstep_img_harmful_text_refusal": 1.0,
+    "expanded_direct_refusal_n50": 0.94
+  },
+  "poison_10pct": {
+    "figstep_img_harmful_text_refusal": 1.0,
+    "expanded_direct_refusal_n50": 0.94
+  }
+}

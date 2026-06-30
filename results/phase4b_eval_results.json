@@ -1,0 +1,22 @@
+{
+  "base_benign_img": {
+    "refusal_rate": 1.0,
+    "asr": 0.0
+  },
+  "base_figstep_img": {
+    "refusal_rate": 1.0,
+    "asr": 0.0
+  },
+  "poison_only_figstep": {
+    "refusal_rate": 1.0,
+    "asr": 0.0
+  },
+  "poison_10pct_figstep": {
+    "refusal_rate": 1.0,
+    "asr": 0.0
+  },
+  "clean_baseline_figstep": {
+    "refusal_rate": 1.0,
+    "asr": 0.0
+  }
+}

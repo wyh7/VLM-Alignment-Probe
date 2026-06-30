@@ -1,0 +1,17 @@
+# Model weights and checkpoints (too large)
+checkpoints/
+models/
+internvl_venv/
+__pycache__/
+*.pyc
+*.pth
+*.safetensors
+
+# Data (too large, use JailbreakV-28K directly)
+data/
+
+# Logs
+*.log
+
+# Misc
+.DS_Store

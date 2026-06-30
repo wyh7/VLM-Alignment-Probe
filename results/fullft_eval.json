@@ -1,0 +1,12 @@
+{
+  "figstep": {
+    "n": 50,
+    "comply": 50,
+    "asr": 1.0
+  },
+  "direct": {
+    "n": 10,
+    "comply": 0,
+    "asr": 0.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "base": {
+    "figstep_asr": 0.7,
+    "figstep_refusal": 0.3,
+    "direct_asr": 0.0,
+    "direct_refusal": 1.0
+  },
+  "poison_only": {
+    "figstep_asr": 1.0,
+    "figstep_refusal": 0.0,
+    "direct_asr": 0.0,
+    "direct_refusal": 1.0
+  },
+  "poison_10pct": {
+    "figstep_asr": 1.0,
+    "figstep_refusal": 0.0,
+    "direct_asr": 0.0,
+    "direct_refusal": 1.0
+  },
+  "poison_30pct": {
+    "figstep_asr": 1.0,
+    "figstep_refusal": 0.0,
+    "direct_asr": 0.0,
+    "direct_refusal": 1.0
+  }
+}

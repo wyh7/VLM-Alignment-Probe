@@ -1,0 +1,14 @@
+{
+  "base": {
+    "figstep_asr": 0.8,
+    "direct_refusal": 1.0,
+    "n_figstep": 100,
+    "n_direct": 10
+  },
+  "dpo_poison_only": {
+    "figstep_asr": 0.81,
+    "direct_refusal": 0.9,
+    "n_figstep": 100,
+    "n_direct": 10
+  }
+}
