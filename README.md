@@ -4,9 +4,9 @@ Code for the paper:
 
 **SFT Memorizes, DPO Resists: Differential Poisoning Robustness of Post-Training Methods for Vision-Language Model Safety**
 
-*Yuhang Wang, University of Science and Technology of China*
+*Yuhang Wang, Fudan University*
 
-> Course project for «New Advances in NLP», USTC, 2026
+> Course project for «New Advances in NLP», Fudan University, 2026
 
 ## Overview
 
@@ -105,6 +105,6 @@ If you use this code, please cite:
                Post-Training Methods for Vision-Language Model Safety},
   author    = {Yuhang Wang},
   year      = {2026},
-  note      = {Course project, USTC}
+  note      = {Course project, Fudan University}
 }
 ```
