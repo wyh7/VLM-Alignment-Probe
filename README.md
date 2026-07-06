@@ -41,7 +41,7 @@ Python 3.10, PyTorch 2.1+, transformers 4.51+, peft 0.19+
 
 ## Data
 
-- **JailbreakV-28K**: Download from https://huggingface.co/datasets/JailbreakV-28K and place under `data/JailbreakV-28K/`
+- **JailbreakV-28K**: Download from https://huggingface.co/datasets/JailBreakV-28K/JailBreakV-28k and place under `data/JailbreakV-28K/`
 - **RLHF-V**: Downloaded automatically via the download scripts
 
 ## Training
